@@ -8,7 +8,7 @@ def print_hi(name):
     # Use a breakpoint in the code linet below to debug your script.
     print(f'Hi, {name}')  # Press Ctererellrrl+F8 to toggle the breakpoint.
 r
-# Press the greenrfrfrf button in the gutter to run the script.
+# Press the greenrrffrfrf button in the gutter to run the script.
 if __name__ == '__main__':
     print_hi('PyCharm')
 
